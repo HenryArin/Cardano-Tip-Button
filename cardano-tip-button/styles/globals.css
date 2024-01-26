@@ -1,0 +1,13 @@
+.tipButton {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    background-image: linear-gradient(to bottom right, #143b9c, #3e85b4);
+    /* Adjust the angle and colors as needed */
+    color: white; /* Set text color to contrast with the gradient */
+    border-radius: 10px; /* Adjust the value to make the corners more or less rounded */
+    color: white; /* Set text color to contrast with the gradient */
+    border: none; /* Remove default button border */
+    cursor: pointer; /* Add cursor pointer for better usability */
+    outline: none; /* Remove default button focus outline */
+}
